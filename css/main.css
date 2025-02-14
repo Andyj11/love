@@ -1363,7 +1363,7 @@ body {
   color: #ffffff; /* Cambia el color del texto según tu preferencia */
 }
 
-.linea-1, .linea-2 {
+.linea-1, .linea-2{
   font-family: 'Cookie';
   display: inline-block;
   opacity: 0;
@@ -1373,6 +1373,7 @@ body {
 .linea-2 {
   animation-delay: 1.5s; /* Retraso para que la segunda línea comience después de la primera */
 }
+
 
 @keyframes fadeInOut {
   0%, 100% {
